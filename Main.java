@@ -30,7 +30,7 @@ while (true){
      else if (option == 4){
         while(fileScanner.hasNextLine()){
           String names = fileScanner.nextLine();
-        System.out.println(names);
+        System.out.println("Current Students:" + names);
         }
 	}
      else if (option == 5){
