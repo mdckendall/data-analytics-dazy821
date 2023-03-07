@@ -28,7 +28,7 @@ while (true){
           System.out.println("Top 10 Forbes In-Demand Jobs!");
 	}
      else if (option == 4){
-       System.out.println("Current Students: ");
+       System.out.println("Current Students:");
         while(fileScanner.hasNextLine()){
           String names = fileScanner.nextLine();
         System.out.println( names);
