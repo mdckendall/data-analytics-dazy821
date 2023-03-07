@@ -18,14 +18,14 @@ while (true){
       int option = sc.nextInt();
 
       if (option == 1){
-          System.out.println("$98,345 averge salary in South Florida!");
+          System.out.println("$98,345 average salary in South Florida!");
         
       }
      else if (option == 2){
           System.out.println("US News - 100 Best Jobs!");
 	}
       else if (option == 3){
-          System.out.println("Top 10 Forbes In-Demands Jobs!");
+          System.out.println("Top 10 Forbes In-Demand Jobs!");
 	}
      else if (option == 4){
        System.out.println("Current Students: ");
